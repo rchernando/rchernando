@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👨‍💻
+# ¡Hola, soy Roberto Hernando! 👨‍💻
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un Desarrollador Frontend con más de 2 años de experiencia, especializado en tecnologías web y backend. Aquí te dejo un vistazo a mi experiencia y habilidades:
 
@@ -24,4 +24,4 @@
 
 ## ¡Hablemos!
 - 💬 ¿Necesitas ayuda o colaboración? ¡No dudes en preguntarme!
-- 📧 LinkedIn: [Tu Perfil de LinkedIn](Enlace_a_tu_perfil_LinkedIn)
+- 📧 LinkedIn: [[Tu Perfil de LinkedIn](Enlace_a_tu_perfil_LinkedIn)](https://www.linkedin.com/in/roberto-hernando/)https://www.linkedin.com/in/roberto-hernando/
