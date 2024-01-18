@@ -3,13 +3,12 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un Desarrollador Frontend con más de 2 años de experiencia, especializado en tecnologías web y backend. Aquí te dejo un vistazo a mi experiencia y habilidades:
 
 ## Experiencia Frontend
-- 🚀 Más de 2 años de experiencia en desarrollo frontend.
-- 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 15.2), rxjs, ngrx, Chart.js.
+- 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 17), rxjs, ngrx, Chart.js.
 - 🎨 Frameworks CSS: Angular Material, Tailwind CSS.
 - 🧪 Pruebas unitarias: Jest.
 
 ## Experiencia Backend
-- ⚙️ Desarrollo de APIs REST con NodeJS y Express.
+- ⚙️ Desarrollo de APIs REST con NodeJS, Express, NestJS
 - 🛠️ Bases de datos: MySQL, MariaDB.
 - 🔒 Seguridad: Validación de datos con "joi", prevención de inyecciones SQL con "xss".
 - 🌐 APIs con Apollo, GraphQL y MongoDB.
