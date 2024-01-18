@@ -24,4 +24,4 @@
 
 ## ¡Hablemos!
 - 💬 ¿Necesitas ayuda o colaboración? ¡No dudes en preguntarme!
-- 📧 LinkedIn: [[Tu Perfil de LinkedIn](Enlace_a_tu_perfil_LinkedIn)](https://www.linkedin.com/in/roberto-hernando/)https://www.linkedin.com/in/roberto-hernando/
+- 📧 LinkedIn: [Linkedin Roberto Hernando](https://www.linkedin.com/in/roberto-hernando/)
