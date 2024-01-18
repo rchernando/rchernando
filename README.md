@@ -1,32 +1,27 @@
-### Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👨‍💻
 
-<!--
-**rchernando/rchernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy un Desarrollador Frontend con más de 2 años de experiencia, especializado en tecnologías web y backend. Aquí te dejo un vistazo a mi experiencia y habilidades:
 
-Here are some ideas to get you started:
+## Experiencia Frontend
+- 🚀 Más de 2 años de experiencia en desarrollo frontend.
+- 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 15.2), rxjs, ngrx, Chart.js.
+- 🎨 Frameworks CSS: Angular Material, Tailwind CSS.
+- 🧪 Pruebas unitarias: Jest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia Backend
+- ⚙️ Desarrollo de APIs REST con NodeJS y Express.
+- 🛠️ Bases de datos: MySQL, MariaDB.
+- 🔒 Seguridad: Validación de datos con "joi", prevención de inyecciones SQL con "xss".
+- 🌐 APIs con Apollo, GraphQL y MongoDB.
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+## Exploración Tecnológica
+- 🌐 Conocimientos en PHP, Python.
+- ☕ Java: Experiencia con Springboot.
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+## Filosofía y Perspectiva
+- ✅ Detallista y apasionado por seguir las mejores prácticas.
+- 🤔 Perspectiva crítica, no solo centrada en las características del producto, sino también en la comprensión de la dinámica empresarial.
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## ¡Hablemos!
+- 💬 ¿Necesitas ayuda o colaboración? ¡No dudes en preguntarme!
+- 📧 LinkedIn: [Tu Perfil de LinkedIn](Enlace_a_tu_perfil_LinkedIn)
