@@ -3,8 +3,8 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un Desarrollador Frontend con más de 2 años de experiencia, especializado en tecnologías web y backend. Aquí te dejo un vistazo a mi experiencia y habilidades:
 
 ## Algunos de los proyectos publicos que he creado son:
-- [www.countrydataapi.com](http://www.countrydataapi.com) (AstroJS + NestJS)
 - [www.bepand.es](http://www.bepand.es) (AstroJS)
+- [www.countrydataapi.com](http://www.countrydataapi.com) (AstroJS + NestJS)
 
 ## Experiencia Frontend
 - 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 17), rxjs, ngrx, Chart.js.
