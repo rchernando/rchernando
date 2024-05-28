@@ -4,7 +4,7 @@
 
 ## Algunos de los proyectos publicos que he creado son:
 - [www.countrydataapi.com](http://www.countrydataapi.com) (AstroJS + NestJS)
-- [www.bepand.com](http://www.bepand.com) (AstroJS)
+- [www.bepand.es](http://www.bepand.es) (AstroJS)
 
 ## Experiencia Frontend
 - 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 17), rxjs, ngrx, Chart.js.
