@@ -5,6 +5,7 @@
 ## Algunos de los proyectos publicos que he creado son:
 - [www.bepand.es](http://www.bepand.es) (AstroJS)
 - [www.countrydataapi.com](http://www.countrydataapi.com) (AstroJS + NestJS)
+- [bank-app.robertohernando.com](http://bank-app.robertohernando.com) (Angular 18 SSR)
 
 ## Experiencia Frontend
 - 💻 Tecnologías principales: JavaScript, Angular (versiones 8 a 17), rxjs, ngrx, Chart.js.
